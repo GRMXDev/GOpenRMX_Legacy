@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/ecj-3.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="E:/GOpenRMXDev/Server/apache-tomcat-7.0.30/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="E:/jruby/runtime/jruby/lib/jruby.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
