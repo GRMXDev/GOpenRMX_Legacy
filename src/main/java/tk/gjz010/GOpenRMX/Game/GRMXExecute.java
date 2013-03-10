@@ -1,6 +1,9 @@
 package tk.gjz010.GOpenRMX.Game;
 
+//import org.jruby.embed.ScriptingContainer;
+
 import org.jruby.embed.ScriptingContainer;
+
 
 //import javax.xml.soap.*;
 public class GRMXExecute {
@@ -23,7 +26,8 @@ public class GRMXExecute {
 			
 		}
 	    String jrubyCode="";  
-	    ScriptingContainer container = new ScriptingContainer();  
+	    ScriptingContainer container;  
+            container = new ScriptingContainer();
 	    container.runScriptlet(jrubyCode);  
 	}
 	public void initManagers() throws Exception{

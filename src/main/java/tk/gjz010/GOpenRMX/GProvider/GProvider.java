@@ -11,6 +11,11 @@ import javax.servlet.http.HttpServletResponse;
 public class GProvider extends HttpServlet {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 626636280108185710L;
+
+	/**
 	 * Constructor of the object.
 	 */
 	public GProvider() {
