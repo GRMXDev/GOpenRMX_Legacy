@@ -4,6 +4,7 @@ public class ScriptManager {
         ScriptingContainer container; 
 	public ScriptManager(GRMXExecute game){
 	container = new ScriptingContainer();
+        //Ruby
 	}
         public void parseAllScript(){
         
