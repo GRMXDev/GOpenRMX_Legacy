@@ -10,3 +10,4 @@
 .gitignore
 target/
 *.form
+/GRGSS/nbproject/private/
